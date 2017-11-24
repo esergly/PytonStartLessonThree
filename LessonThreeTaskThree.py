@@ -1,4 +1,3 @@
-# Задача 3
 
 year = int(input('Введите искомый год: \n'))
 if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
